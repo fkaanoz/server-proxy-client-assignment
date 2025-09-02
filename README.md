@@ -1,7 +1,6 @@
 Topology and Ports:
-
-Client(ephemeral)   <=>  (3000) Proxy (ephemeral) <=>  (8081)SERVER
-Client(ephemeral)   <===============================>  (8080)SERVER
+- Client(ephemeral)   <=>  (3000) Proxy (ephemeral) <=>  (8081)SERVER
+- Client(ephemeral)   <===============================>  (8080)SERVER
 
 1) Client :
 2) Proxy :
